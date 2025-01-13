@@ -139,10 +139,10 @@ Check out the live application here: [Quiz Application Live Link](https://sparkl
 ![Setup Quiz Page](https://ik.imagekit.io/m9qnay09g/EV-1.png)
 
 ### 🎮 Quiz Page
-![Quiz Page](./screenshots/quiz_page.png)
+![Quiz Page](https://ik.imagekit.io/m9qnay09g/EV-2.png)
 
 ### 🏆 Leaderboard Page
-![Leaderboard Page](./screenshots/leaderboard_page.png)
+![Leaderboard Page](https://ik.imagekit.io/m9qnay09g/EV-3.png)
 
 ---
 
