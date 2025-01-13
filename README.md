@@ -66,6 +66,7 @@ quiz-application/
 ├── public/
 ├── src/
 │   ├── components/
+│   │   ├── Api.jsx
 │   │   ├── Navbar.jsx
 │   │   ├── QuizSetup.jsx
 │   │   ├── QuizPage.jsx
@@ -135,7 +136,7 @@ Check out the live application here: [Quiz Application Live Link](https://sparkl
 ## 🖼️ Screenshots
 
 ### 🛠️ Setup Quiz Page
-![Setup Quiz Page](./screenshots/setup_quiz.png)
+![Setup Quiz Page]([./screenshots/setup_quiz.png](https://ik.imagekit.io/m9qnay09g/EV-1.png))
 
 ### 🎮 Quiz Page
 ![Quiz Page](./screenshots/quiz_page.png)
