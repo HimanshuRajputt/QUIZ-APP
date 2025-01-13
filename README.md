@@ -71,8 +71,6 @@ quiz-application/
 │   │   ├── QuizSetup.jsx
 │   │   ├── QuizPage.jsx
 │   │   ├── Leaderboard.jsx
-│   └── utils/
-│       ├── fetchQuizData.js
 │   ├── App.js
 │   ├── index.js
 │
